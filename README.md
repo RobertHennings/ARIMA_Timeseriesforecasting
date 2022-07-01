@@ -1,3 +1,3 @@
 # ARIMA_Timeseriesforecasting
 Moving Averages and Timeseries Analysis Fundamentals
-In diesem Teilbereich geht es um die Grundlagen der Zeitreihenanalyse, dessen Begriffe und Kernbestandteile. Anschließend werden einfache Ausprägungen von Gleitenden Durchschnitten beleuchtet, sowie die Herleitung des ARMA(p,d) und des ARIMA(p,d,q) Modells als aktuelle Methoden, das am weitesten verbreitet ist zur Zeitreihenprognose.
+This section deals with the fundamentals of time series analysis, its terms and core components. Subsequently, simple expressions of moving averages are highlighted, as well as the derivation of the ARMA(p,d) and the ARIMA(p,d,q) model as current methods, which is most widely used for time series forecasting.
